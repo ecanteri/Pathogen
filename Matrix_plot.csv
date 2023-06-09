@@ -1,0 +1,111 @@
+Taxa,Variable,Model,WAIC,DeltaWAIC,Selected,Relationship
+Borrelia recurrentis,Age,m6,246.862465647925,0,Yes,Negative
+Borrelia recurrentis,Latitude,m6,246.862465647925,0,Yes,None
+Borrelia recurrentis,Longitude,m6,246.862465647925,0,Yes,None
+Borrelia recurrentis,Num. Human Reads,m6,246.862465647925,0,Yes,None
+Borrelia recurrentis,Mobility Dist.,m6,246.862465647925,0,No,
+Borrelia recurrentis,EHG,m6,246.862465647925,0,Yes,None
+Borrelia recurrentis,WHG,m6,246.862465647925,0,Yes,None
+Borrelia recurrentis,LVN,m6,246.862465647925,0,Yes,None
+Borrelia recurrentis,CHG,m6,246.862465647925,0,Yes,Positive
+Borrelia recurrentis,Annual Temp.,m6,246.862465647925,0,No,
+Borrelia recurrentis,Annual Prec.,m6,246.862465647925,0,No,
+Clostridium septicum,Age,m8,196.758072577013,0,Yes,None
+Clostridium septicum,Latitude,m8,196.758072577013,0,Yes,None
+Clostridium septicum,Longitude,m8,196.758072577013,0,Yes,None
+Clostridium septicum,Num. Human Reads,m8,196.758072577013,0,Yes,None
+Clostridium septicum,Mobility Dist.,m8,196.758072577013,0,No,
+Clostridium septicum,EHG,m8,196.758072577013,0,No,
+Clostridium septicum,WHG,m8,196.758072577013,0,No,
+Clostridium septicum,LVN,m8,196.758072577013,0,No,
+Clostridium septicum,CHG,m8,196.758072577013,0,No,
+Clostridium septicum,Annual Temp.,m8,196.758072577013,0,No,
+Clostridium septicum,Annual Prec.,m8,196.758072577013,0,No,
+Leptospira interrogans,Age,m8,151.04654183323,0,Yes,Negative
+Leptospira interrogans,Latitude,m8,151.04654183323,0,Yes,None
+Leptospira interrogans,Longitude,m8,151.04654183323,0,Yes,None
+Leptospira interrogans,Num. Human Reads,m8,151.04654183323,0,Yes,None
+Leptospira interrogans,Mobility Dist.,m8,151.04654183323,0,No,
+Leptospira interrogans,EHG,m8,151.04654183323,0,No,
+Leptospira interrogans,WHG,m8,151.04654183323,0,No,
+Leptospira interrogans,LVN,m8,151.04654183323,0,No,
+Leptospira interrogans,CHG,m8,151.04654183323,0,No,
+Leptospira interrogans,Annual Temp.,m8,151.04654183323,0,No,
+Leptospira interrogans,Annual Prec.,m8,151.04654183323,0,No,
+Streptococcus mutans,Age,m8,321.667024492863,0,Yes,None
+Streptococcus mutans,Latitude,m8,321.667024492863,0,Yes,Negative
+Streptococcus mutans,Longitude,m8,321.667024492863,0,Yes,None
+Streptococcus mutans,Num. Human Reads,m8,321.667024492863,0,Yes,None
+Streptococcus mutans,Mobility Dist.,m8,321.667024492863,0,No,
+Streptococcus mutans,EHG,m8,321.667024492863,0,No,
+Streptococcus mutans,WHG,m8,321.667024492863,0,No,
+Streptococcus mutans,LVN,m8,321.667024492863,0,No,
+Streptococcus mutans,CHG,m8,321.667024492863,0,No,
+Streptococcus mutans,Annual Temp.,m8,321.667024492863,0,No,
+Streptococcus mutans,Annual Prec.,m8,321.667024492863,0,No,
+Yersinia pestis,Age,m5,338.781594983276,0,Yes,None
+Yersinia pestis,Latitude,m5,338.781594983276,0,Yes,None
+Yersinia pestis,Longitude,m5,338.781594983276,0,Yes,None
+Yersinia pestis,Num. Human Reads,m5,338.781594983276,0,Yes,Negative
+Yersinia pestis,Mobility Dist.,m5,338.781594983276,0,Yes,None
+Yersinia pestis,EHG,m5,338.781594983276,0,Yes,Positive
+Yersinia pestis,WHG,m5,338.781594983276,0,Yes,None
+Yersinia pestis,LVN,m5,338.781594983276,0,Yes,None
+Yersinia pestis,CHG,m5,338.781594983276,0,Yes,Positive
+Yersinia pestis,Annual Temp.,m5,338.781594983276,0,No,
+Yersinia pestis,Annual Prec.,m5,338.781594983276,0,No,
+anthroponotic,Age,m3,382.561706880741,0,Yes,Negative
+anthroponotic,Latitude,m3,382.561706880741,0,Yes,Positive
+anthroponotic,Longitude,m3,382.561706880741,0,Yes,Positive
+anthroponotic,Num. Human Reads,m3,382.561706880741,0,Yes,None
+anthroponotic,Mobility Dist.,m3,382.561706880741,0,No,
+anthroponotic,EHG,m3,382.561706880741,0,Yes,None
+anthroponotic,WHG,m3,382.561706880741,0,Yes,Positive
+anthroponotic,LVN,m3,382.561706880741,0,Yes,None
+anthroponotic,CHG,m3,382.561706880741,0,Yes,Positive
+anthroponotic,Annual Temp.,m3,382.561706880741,0,Yes,None
+anthroponotic,Annual Prec.,m3,382.561706880741,0,Yes,Positive
+opportunistic,Age,m5,1319.11273964637,0,Yes,Positive
+opportunistic,Latitude,m5,1319.11273964637,0,Yes,None
+opportunistic,Longitude,m5,1319.11273964637,0,Yes,None
+opportunistic,Num. Human Reads,m5,1319.11273964637,0,Yes,Positive
+opportunistic,Mobility Dist.,m5,1319.11273964637,0,Yes,Negative
+opportunistic,EHG,m5,1319.11273964637,0,Yes,None
+opportunistic,WHG,m5,1319.11273964637,0,Yes,None
+opportunistic,LVN,m5,1319.11273964637,0,Yes,Negative
+opportunistic,CHG,m5,1319.11273964637,0,Yes,None
+opportunistic,Annual Temp.,m5,1319.11273964637,0,No,
+opportunistic,Annual Prec.,m5,1319.11273964637,0,No,
+other,Age,m6,1680.05189864873,0,Yes,Positive
+other,Latitude,m6,1680.05189864873,0,Yes,None
+other,Longitude,m6,1680.05189864873,0,Yes,None
+other,Num. Human Reads,m6,1680.05189864873,0,Yes,None
+other,Mobility Dist.,m6,1680.05189864873,0,No,
+other,EHG,m6,1680.05189864873,0,Yes,Negative
+other,WHG,m6,1680.05189864873,0,Yes,None
+other,LVN,m6,1680.05189864873,0,Yes,None
+other,CHG,m6,1680.05189864873,0,Yes,Positive
+other,Annual Temp.,m6,1680.05189864873,0,No,
+other,Annual Prec.,m6,1680.05189864873,0,No,
+sapronotic,Age,m1,1413.78426095774,0,Yes,None
+sapronotic,Latitude,m1,1413.78426095774,0,Yes,None
+sapronotic,Longitude,m1,1413.78426095774,0,Yes,None
+sapronotic,Num. Human Reads,m1,1413.78426095774,0,Yes,None
+sapronotic,Mobility Dist.,m1,1413.78426095774,0,Yes,None
+sapronotic,EHG,m1,1413.78426095774,0,Yes,None
+sapronotic,WHG,m1,1413.78426095774,0,Yes,Negative
+sapronotic,LVN,m1,1413.78426095774,0,Yes,None
+sapronotic,CHG,m1,1413.78426095774,0,Yes,None
+sapronotic,Annual Temp.,m1,1413.78426095774,0,Yes,None
+sapronotic,Annual Prec.,m1,1413.78426095774,0,Yes,None
+zoonotic,Age,m6,665.227971596321,0,Yes,Negative
+zoonotic,Latitude,m6,665.227971596321,0,Yes,None
+zoonotic,Longitude,m6,665.227971596321,0,Yes,None
+zoonotic,Num. Human Reads,m6,665.227971596321,0,Yes,None
+zoonotic,Mobility Dist.,m6,665.227971596321,0,No,
+zoonotic,EHG,m6,665.227971596321,0,Yes,None
+zoonotic,WHG,m6,665.227971596321,0,Yes,None
+zoonotic,LVN,m6,665.227971596321,0,Yes,None
+zoonotic,CHG,m6,665.227971596321,0,Yes,Positive
+zoonotic,Annual Temp.,m6,665.227971596321,0,No,
+zoonotic,Annual Prec.,m6,665.227971596321,0,No,

@@ -1,0 +1,131 @@
+Taxa,Variable,Model,WAIC,DeltaWAIC,Selected,Relationship
+Borrelia recurrentis,Age,m6,246.862465471816,0,Yes,Negative
+Borrelia recurrentis,Latitude,m6,246.862465471816,0,Yes,None
+Borrelia recurrentis,Longitude,m6,246.862465471816,0,Yes,None
+Borrelia recurrentis,Num. Human Reads,m6,246.862465471816,0,Yes,None
+Borrelia recurrentis,Mobility Dist.,m6,246.862465471816,0,No,
+Borrelia recurrentis,EHG,m6,246.862465471816,0,Yes,None
+Borrelia recurrentis,WHG,m6,246.862465471816,0,Yes,None
+Borrelia recurrentis,LVN,m6,246.862465471816,0,Yes,None
+Borrelia recurrentis,CHG,m6,246.862465471816,0,Yes,Positive
+Borrelia recurrentis,Annual Temp.,m6,246.862465471816,0,No,
+Borrelia recurrentis,Annual Prec.,m6,246.862465471816,0,No,
+Borrelia recurrentis,Isothermality,m6,246.862465471816,0,No,
+Borrelia recurrentis,Prec. Seasonality,m6,246.862465471816,0,No,
+Clostridium septicum,Age,m4,195.658915455393,0,Yes,None
+Clostridium septicum,Latitude,m4,195.658915455393,0,Yes,None
+Clostridium septicum,Longitude,m4,195.658915455393,0,Yes,None
+Clostridium septicum,Num. Human Reads,m4,195.658915455393,0,Yes,None
+Clostridium septicum,Mobility Dist.,m4,195.658915455393,0,No,
+Clostridium septicum,EHG,m4,195.658915455393,0,No,
+Clostridium septicum,WHG,m4,195.658915455393,0,No,
+Clostridium septicum,LVN,m4,195.658915455393,0,No,
+Clostridium septicum,CHG,m4,195.658915455393,0,No,
+Clostridium septicum,Annual Temp.,m4,195.658915455393,0,Yes,None
+Clostridium septicum,Annual Prec.,m4,195.658915455393,0,Yes,Negative
+Clostridium septicum,Isothermality,m4,195.658915455393,0,Yes,None
+Clostridium septicum,Prec. Seasonality,m4,195.658915455393,0,Yes,None
+Leptospira interrogans,Age,m8,151.046541537271,0,Yes,Negative
+Leptospira interrogans,Latitude,m8,151.046541537271,0,Yes,None
+Leptospira interrogans,Longitude,m8,151.046541537271,0,Yes,None
+Leptospira interrogans,Num. Human Reads,m8,151.046541537271,0,Yes,None
+Leptospira interrogans,Mobility Dist.,m8,151.046541537271,0,No,
+Leptospira interrogans,EHG,m8,151.046541537271,0,No,
+Leptospira interrogans,WHG,m8,151.046541537271,0,No,
+Leptospira interrogans,LVN,m8,151.046541537271,0,No,
+Leptospira interrogans,CHG,m8,151.046541537271,0,No,
+Leptospira interrogans,Annual Temp.,m8,151.046541537271,0,No,
+Leptospira interrogans,Annual Prec.,m8,151.046541537271,0,No,
+Leptospira interrogans,Isothermality,m8,151.046541537271,0,No,
+Leptospira interrogans,Prec. Seasonality,m8,151.046541537271,0,No,
+Streptococcus mutans,Age,m8,321.667024492863,0,Yes,None
+Streptococcus mutans,Latitude,m8,321.667024492863,0,Yes,Negative
+Streptococcus mutans,Longitude,m8,321.667024492863,0,Yes,None
+Streptococcus mutans,Num. Human Reads,m8,321.667024492863,0,Yes,None
+Streptococcus mutans,Mobility Dist.,m8,321.667024492863,0,No,
+Streptococcus mutans,EHG,m8,321.667024492863,0,No,
+Streptococcus mutans,WHG,m8,321.667024492863,0,No,
+Streptococcus mutans,LVN,m8,321.667024492863,0,No,
+Streptococcus mutans,CHG,m8,321.667024492863,0,No,
+Streptococcus mutans,Annual Temp.,m8,321.667024492863,0,No,
+Streptococcus mutans,Annual Prec.,m8,321.667024492863,0,No,
+Streptococcus mutans,Isothermality,m8,321.667024492863,0,No,
+Streptococcus mutans,Prec. Seasonality,m8,321.667024492863,0,No,
+Yersinia pestis,Age,m5,338.781594837225,0,Yes,None
+Yersinia pestis,Latitude,m5,338.781594837225,0,Yes,None
+Yersinia pestis,Longitude,m5,338.781594837225,0,Yes,None
+Yersinia pestis,Num. Human Reads,m5,338.781594837225,0,Yes,Negative
+Yersinia pestis,Mobility Dist.,m5,338.781594837225,0,Yes,None
+Yersinia pestis,EHG,m5,338.781594837225,0,Yes,Positive
+Yersinia pestis,WHG,m5,338.781594837225,0,Yes,None
+Yersinia pestis,LVN,m5,338.781594837225,0,Yes,None
+Yersinia pestis,CHG,m5,338.781594837225,0,Yes,Positive
+Yersinia pestis,Annual Temp.,m5,338.781594837225,0,No,
+Yersinia pestis,Annual Prec.,m5,338.781594837225,0,No,
+Yersinia pestis,Isothermality,m5,338.781594837225,0,No,
+Yersinia pestis,Prec. Seasonality,m5,338.781594837225,0,No,
+anthroponotic,Age,m3,385.488159496798,0,Yes,None
+anthroponotic,Latitude,m3,385.488159496798,0,Yes,Positive
+anthroponotic,Longitude,m3,385.488159496798,0,Yes,Positive
+anthroponotic,Num. Human Reads,m3,385.488159496798,0,Yes,None
+anthroponotic,Mobility Dist.,m3,385.488159496798,0,No,
+anthroponotic,EHG,m3,385.488159496798,0,Yes,None
+anthroponotic,WHG,m3,385.488159496798,0,Yes,Positive
+anthroponotic,LVN,m3,385.488159496798,0,Yes,None
+anthroponotic,CHG,m3,385.488159496798,0,Yes,Positive
+anthroponotic,Annual Temp.,m3,385.488159496798,0,Yes,None
+anthroponotic,Annual Prec.,m3,385.488159496798,0,Yes,None
+anthroponotic,Isothermality,m3,385.488159496798,0,Yes,None
+anthroponotic,Prec. Seasonality,m3,385.488159496798,0,Yes,None
+opportunistic,Age,m5,1319.11273970501,0,Yes,Positive
+opportunistic,Latitude,m5,1319.11273970501,0,Yes,None
+opportunistic,Longitude,m5,1319.11273970501,0,Yes,None
+opportunistic,Num. Human Reads,m5,1319.11273970501,0,Yes,Positive
+opportunistic,Mobility Dist.,m5,1319.11273970501,0,Yes,Negative
+opportunistic,EHG,m5,1319.11273970501,0,Yes,None
+opportunistic,WHG,m5,1319.11273970501,0,Yes,None
+opportunistic,LVN,m5,1319.11273970501,0,Yes,Negative
+opportunistic,CHG,m5,1319.11273970501,0,Yes,None
+opportunistic,Annual Temp.,m5,1319.11273970501,0,No,
+opportunistic,Annual Prec.,m5,1319.11273970501,0,No,
+opportunistic,Isothermality,m5,1319.11273970501,0,No,
+opportunistic,Prec. Seasonality,m5,1319.11273970501,0,No,
+other,Age,m6,1680.05189879436,0,Yes,Positive
+other,Latitude,m6,1680.05189879436,0,Yes,None
+other,Longitude,m6,1680.05189879436,0,Yes,None
+other,Num. Human Reads,m6,1680.05189879436,0,Yes,None
+other,Mobility Dist.,m6,1680.05189879436,0,No,
+other,EHG,m6,1680.05189879436,0,Yes,Negative
+other,WHG,m6,1680.05189879436,0,Yes,None
+other,LVN,m6,1680.05189879436,0,Yes,None
+other,CHG,m6,1680.05189879436,0,Yes,Positive
+other,Annual Temp.,m6,1680.05189879436,0,No,
+other,Annual Prec.,m6,1680.05189879436,0,No,
+other,Isothermality,m6,1680.05189879436,0,No,
+other,Prec. Seasonality,m6,1680.05189879436,0,No,
+sapronotic,Age,m5,1414.2539667014,0,Yes,Positive
+sapronotic,Latitude,m5,1414.2539667014,0,Yes,None
+sapronotic,Longitude,m5,1414.2539667014,0,Yes,None
+sapronotic,Num. Human Reads,m5,1414.2539667014,0,Yes,None
+sapronotic,Mobility Dist.,m5,1414.2539667014,0,Yes,None
+sapronotic,EHG,m5,1414.2539667014,0,Yes,None
+sapronotic,WHG,m5,1414.2539667014,0,Yes,None
+sapronotic,LVN,m5,1414.2539667014,0,Yes,None
+sapronotic,CHG,m5,1414.2539667014,0,Yes,Positive
+sapronotic,Annual Temp.,m5,1414.2539667014,0,No,
+sapronotic,Annual Prec.,m5,1414.2539667014,0,No,
+sapronotic,Isothermality,m5,1414.2539667014,0,No,
+sapronotic,Prec. Seasonality,m5,1414.2539667014,0,No,
+zoonotic,Age,m6,665.227971727575,0,Yes,Negative
+zoonotic,Latitude,m6,665.227971727575,0,Yes,None
+zoonotic,Longitude,m6,665.227971727575,0,Yes,None
+zoonotic,Num. Human Reads,m6,665.227971727575,0,Yes,None
+zoonotic,Mobility Dist.,m6,665.227971727575,0,No,
+zoonotic,EHG,m6,665.227971727575,0,Yes,None
+zoonotic,WHG,m6,665.227971727575,0,Yes,None
+zoonotic,LVN,m6,665.227971727575,0,Yes,None
+zoonotic,CHG,m6,665.227971727575,0,Yes,Positive
+zoonotic,Annual Temp.,m6,665.227971727575,0,No,
+zoonotic,Annual Prec.,m6,665.227971727575,0,No,
+zoonotic,Isothermality,m6,665.227971727575,0,No,
+zoonotic,Prec. Seasonality,m6,665.227971727575,0,No,
