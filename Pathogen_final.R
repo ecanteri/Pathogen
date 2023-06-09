@@ -258,7 +258,7 @@ p3
 dev.off()
 
 #### Different climatic variables ####
-## Add Isothermality and Mean Precipitation of Warmest Quarter
+## Add Isothermality and Precipitation Seasonality
 models.list <- lapply(models.list, function(x){
   formula(gsub(pattern = "bio12", replacement = "bio12 + bio03 + bio15", x = x))
 })
